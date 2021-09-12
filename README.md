@@ -1,5 +1,8 @@
 # FOREWARNED
 
+オンライン協力探索ホラーゲーム
+https://store.steampowered.com/app/1562420/FOREWARNED/
+
 ## MEMO
 ### Raduwen current Archeobay
 - Hard Hat+
