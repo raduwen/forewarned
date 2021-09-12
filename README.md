@@ -1,7 +1,7 @@
 # FOREWARNED
 
 ## MEMO
-### Raduwen current equipment
+### Raduwen current Archeobay
 - Hard Hat+
 - Smart Watch+
 - Photo Camera+
